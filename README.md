@@ -14,7 +14,7 @@ The most significant values found in our analysis was the spoiler_angle, AWD, an
 
 
 ## Is the slope of the linear model considered to be zero? 
-The slope of the model is not considered to be zero since our p-value is 5.35e-11, which is much smaller than the standard significance value of 0.05. Our model is indicating that there is sufficient statisical evidence to state that our null hypothesis is not true.
+The slope of the model is not considered to be zero since our p-value is 5.35e-11, which is much smaller than the standard significance value of 0.05. Our model is indicating that there is sufficient statistical evidence to state that our null hypothesis is not true.
 
 ![mecha_lin](https://github.com/rainmannyc/MechaCar_Statistical_Analysis/blob/2b473b2ea7c6c3836ee196a553640e9630a0db09/lm_mecha_car.png)
 
@@ -46,8 +46,8 @@ However, when we ran our t-test analysis across the three lots individually, we 
 
 # Study Design: MechaCar vs Competition
 
-We can look to quantify how the MechaCar performs against the competition by measuring a variety of metrics and fetures. One of the most significant metrics across all consumers I believe would be general fuel efficiency and mpg.
-I believe this can be a big buying point for cosumers who are looking at the overall cost of owning a car. 
+We can look to quantify how the MechaCar performs against the competition by measuring a variety of metrics and features. One of the most significant metrics across all consumers I believe would be general fuel efficiency and mpg.
+I believe this can be a big buying point for consumers who are looking at the overall cost of owning a car. 
 
 Another metric we consumers might be interested in is safety rating. If we can find a statistical difference in our MechaCar safety rating versus the competition with more positive results, this can greatly influence consumer decisions. 
 
